@@ -10,7 +10,7 @@ The following is a set of guidelines for contributing to Ice-Cream-Parlour-Websi
 
 This section guides you on how to report bugs.
 
-- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/DharshiBalasubramaniyam/ice-cream-parlour-website/issues).
+- Ensure the bug was not already reported by searching on GitHub under [Issues](https://github.com/EMMANUELNZYOKI/Ice-Cream-Parlour-shop/issues).
 - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include:
   - A descriptive title and a summary.
   - Steps to reproduce the bug.
@@ -168,7 +168,7 @@ Your pull request will now be available for review by the project maintainers. T
 # For Help And Support 💬
 
 - Admin :- Dharshi Balasubramaniyam
-- Contact :- [Email](dharshib.8@gmail.com)
+- Contact :- [Email](manuhdewebdev@gmail.com)
 
 <br>
 
